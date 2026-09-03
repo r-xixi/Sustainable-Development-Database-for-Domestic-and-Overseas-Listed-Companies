@@ -11,7 +11,9 @@
 
 
 4.研究文献：
-
+Impact of ESG performance of China's listed energy companies and their going global performance（2026）<br>
+The Impact of ESG Performance of Acquirer on the Long-Term Performance of Cross-Border Mergers and Acquisitions of China A-Share Listed Companies An Analysis Based on Two-Way Fixed Effect and Threshold Effect（2025）<br>
 The impact of companies disclosing ESG reports in multiple languages on the enthusiasm of foreign investors for holding shares（2023）<br>
+胡开宝, 盛丹丹. 《可持续发展报告》英译本中的华为公司形象研究——一项基于语料库的研究[J]. 外国语, 2020, 43(6): 94-106.
 [可持续发展或ESG信息披露中环境信息披露实践案例国际国内对比研究](https://www.kingandwood.com/cn/zh/insights/latest-thinking/environmental-information-disclosure-in-sustainable-development-or-esg-reports-from-china-and-abroad.html)<br>
 [How Companies Can Navigate China's ESG Reporting Guidelines](https://www.bsr.org/en/insights-plus/how-companies-can-navigate-chinas-esg-reporting-guidelines)

@@ -8,3 +8,10 @@
 
 3.研究价值：
 从跨文化传播视角揭示ESG话语调适对出海企业经济绩效的影响机制，填补"语言转向"在国际商务研究中的空白。为中国新兴产业"走出去"提供基于实证的ESG传播策略，助力构建与国际投资者价值对齐的中国叙事。
+
+
+4.研究文献：
+
+The impact of companies disclosing ESG reports in multiple languages on the enthusiasm of foreign investors for holding shares（2023）<br>
+[可持续发展或ESG信息披露中环境信息披露实践案例国际国内对比研究](https://www.kingandwood.com/cn/zh/insights/latest-thinking/environmental-information-disclosure-in-sustainable-development-or-esg-reports-from-china-and-abroad.html)<br>
+[How Companies Can Navigate China's ESG Reporting Guidelines](https://www.bsr.org/en/insights-plus/how-companies-can-navigate-chinas-esg-reporting-guidelines)

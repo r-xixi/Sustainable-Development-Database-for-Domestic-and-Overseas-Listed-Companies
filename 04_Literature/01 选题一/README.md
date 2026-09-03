@@ -26,6 +26,8 @@ ESG信息披露中的话语策略（2024）
 
 ESG不确定性和噪声对可持续投资的影响研究（2025）
 
+企业ESG评级对债券信用利差的影响————基于发债企业和债券投资者双方的视角（2024）
+
 ESG表现对企业绿色创新的影响（2022）
 
 媒体文本情绪与股票回报预测（2021）
@@ -36,4 +38,12 @@ ESG表现对企业绿色创新的影响（2022）
 
 Does corporate sustainability performance foster green innovation?（2026）
 
+Social Media and Environmental Communication in China: A Systematic Review of Present Status, Trends, and Future Challenges（2025）
+
 The impact of media coverage on the ESG performance of heavily polluting enterprises in China（2024）
+
+ESG disclosure, green innovation, and corporate performance（2024）
+
+ESG Ratings, Media Sentiment, and Corporate Innovation Performance（2024）
+
+The Effect of Environmental Protection-Related Media Coverage on Corporate Green Innovation（2024）

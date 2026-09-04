@@ -16,10 +16,13 @@
 
 张欣欣, 从宏大到微观：中外银行ESG报告的绿色叙事差异——基于工商银行与摩根大通银行的多模态话语分析[J]. 现代社会科学研究, 2026; 6: (8) : 158-163.
 
+牛一琳,史兴松,徐文娟.中美企业ESG报告身份建构对比研究[J].河南理工大学学报(社会科学版),2026,27(4):83-92.
+
+刘军伟,王科芯.企业环境、社会和治理（ESG）报告中的多模态隐喻话语质量与形象自塑研究[J].外语研究,2026,43(2):59-66.
+
 胡开宝, 盛丹丹. 《可持续发展报告》英译本中的华为公司形象研究——一项基于语料库的研究[J]. 外国语, 2020, 43(6): 94-106.
 
 Impact of ESG performance of China's listed energy companies and their going global performance（2026）
-
 
 The Impact of ESG Performance of Acquirer on the Long-Term Performance of Cross-Border Mergers and Acquisitions of China A-Share Listed Companies An Analysis Based on Two-Way Fixed Effect and Threshold Effect（2025）
 

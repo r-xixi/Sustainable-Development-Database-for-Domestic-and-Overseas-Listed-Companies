@@ -23,4 +23,24 @@ ESG reputation risk and corporate investment and financing maturity mismatch: ev
 
 When ESG news talks: How media sentiment shapes corporate financial behavior in China（2025）
 
+Retail Investors’ Social Media Interaction and Corporate Green Innovation: Evidence from China Listed Companies in Heavily Polluting Industries（2025）
+
 情绪宣泄、信息挖掘还是决策参与：投资者绿色互动“画像”与企业绿色创新（2025）
+
+意见分歧与机构投资者持股——基于舆情差异的视角（2023）
+
+（3）“对新兴企业融资影响”角度
+
+ESG disagreements and firm risk: the perspective of external stakeholders（2026）
+
+ESG rating divergence and financing constraints: Evidence from China（2025）
+
+Does Rating Consistency Matter? A Micro-Level Study on the Impact of Corporate ESG Rating Divergence on Equity Financing Costs（2025）
+
+The impact of social media attention on analyst forecast behavior（2025）
+
+ESG Controversies and Firm Value: Evidence from A-Share Companies in China（2025）
+
+Does ESG Disclosure Improve Green Innovation Performance of New Energy Enterprises? Evidence from China（2025）
+
+社会化媒体对分析师行为的影响——以东方财富股吧讨论为例（2021）

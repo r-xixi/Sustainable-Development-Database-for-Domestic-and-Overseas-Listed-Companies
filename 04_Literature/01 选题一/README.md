@@ -38,7 +38,11 @@ ESG表现对企业绿色创新的影响（2022）
 
 Does corporate sustainability performance foster green innovation?（2026）
 
+Media reach and the market reaction to negative ESG media stories do industry affiliation and ESG performance matter（2026）
+
 Social Media and Environmental Communication in China: A Systematic Review of Present Status, Trends, and Future Challenges（2025）
+
+External governance monitoring and corporate behavior Impact of negative media coverage pressure on ESG rating divergence（2025）
 
 The impact of media coverage on the ESG performance of heavily polluting enterprises in China（2024）
 
